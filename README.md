@@ -16,13 +16,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smellygarlic&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smellygarlic&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smellygarlic&show_icons=true&theme=github_light" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smellygarlic&layout=compact&theme=github_light" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smellygarlic&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smellygarlic&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smellygarlic&theme=github_light&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smellygarlic&theme=github_light" height="150"/>
 </p>
 
 ### 📫 Contact
