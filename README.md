@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=30&fontAlignY=40" />
-</p>
-
 ## Hi there 👋, I'm smellygarlic!
 
 ### 🧬 About Me
